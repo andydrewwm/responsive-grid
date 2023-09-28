@@ -140,7 +140,6 @@ first div in the grid  and place it in the grid. */
 .container div:first-of-type {
   grid-column: 1 / -1;
   min-height: 500px;
-  background-color: yellow;
   background-image: url("../images/header.jpg");
   background-attachment: fixed;
   background-position: center;
